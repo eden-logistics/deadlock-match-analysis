@@ -1,4 +1,6 @@
 # CECS 450 Data Visualization Project - Deadlock
+<i>No generative AI was used in the creation of this project :)</i>
+
 This project analyzes data about the 1000 most recent matches of Deadlock, an online multiplayer game created by Valve.
 
 In the game, 12 total players (6 per team) each select a unique character (or "hero") with their own set of abilities, and ultimately fight to break into each others' bases. To successfully do so they must earn enough money to purchase items that increase their strength. Money can be made in multiple ways: killing other players and non-player characters, breaking boxes around the map, and doing specific objectives around the map, just to name a few. 
