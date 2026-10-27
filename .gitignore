@@ -1,0 +1,5 @@
+/.venv
+match_lengths.csv
+player_stats.csv
+heroesFiltered.json
+heroes.json
