@@ -1,0 +1,262 @@
+[
+    {
+        "name": "Infernus",
+        "id": 1
+    },
+    {
+        "name": "Seven",
+        "id": 2
+    },
+    {
+        "name": "Vindicta",
+        "id": 3
+    },
+    {
+        "name": "Lady Geist",
+        "id": 4
+    },
+    {
+        "name": "Abrams",
+        "id": 6
+    },
+    {
+        "name": "Wraith",
+        "id": 7
+    },
+    {
+        "name": "McGinnis",
+        "id": 8
+    },
+    {
+        "name": "Paradox",
+        "id": 10
+    },
+    {
+        "name": "Dynamo",
+        "id": 11
+    },
+    {
+        "name": "Kelvin",
+        "id": 12
+    },
+    {
+        "name": "Haze",
+        "id": 13
+    },
+    {
+        "name": "Holliday",
+        "id": 14
+    },
+    {
+        "name": "Bebop",
+        "id": 15
+    },
+    {
+        "name": "Calico",
+        "id": 16
+    },
+    {
+        "name": "Grey Talon",
+        "id": 17
+    },
+    {
+        "name": "Mo & Krill",
+        "id": 18
+    },
+    {
+        "name": "Shiv",
+        "id": 19
+    },
+    {
+        "name": "Ivy",
+        "id": 20
+    },
+    {
+        "name": "Kali",
+        "id": 21
+    },
+    {
+        "name": "Warden",
+        "id": 25
+    },
+    {
+        "name": "Yamato",
+        "id": 27
+    },
+    {
+        "name": "Lash",
+        "id": 31
+    },
+    {
+        "name": "Viscous",
+        "id": 35
+    },
+    {
+        "name": "Gunslinger",
+        "id": 38
+    },
+    {
+        "name": "The Boss",
+        "id": 39
+    },
+    {
+        "name": "Wrecker",
+        "id": 48
+    },
+    {
+        "name": "Rutger",
+        "id": 49
+    },
+    {
+        "name": "Pocket",
+        "id": 50
+    },
+    {
+        "name": "Thumper",
+        "id": 51
+    },
+    {
+        "name": "Mirage",
+        "id": 52
+    },
+    {
+        "name": "Fathom",
+        "id": 53
+    },
+    {
+        "name": "Cadence",
+        "id": 54
+    },
+    {
+        "name": "Bomber",
+        "id": 56
+    },
+    {
+        "name": "Shield Guy",
+        "id": 57
+    },
+    {
+        "name": "Vyper",
+        "id": 58
+    },
+    {
+        "name": "Vandal",
+        "id": 59
+    },
+    {
+        "name": "Sinclair",
+        "id": 60
+    },
+    {
+        "name": "Trapper",
+        "id": 61
+    },
+    {
+        "name": "Raven",
+        "id": 62
+    },
+    {
+        "name": "Mina",
+        "id": 63
+    },
+    {
+        "name": "Drifter",
+        "id": 64
+    },
+    {
+        "name": "Venator",
+        "id": 65
+    },
+    {
+        "name": "Victor",
+        "id": 66
+    },
+    {
+        "name": "Paige",
+        "id": 67
+    },
+    {
+        "name": "Boho",
+        "id": 68
+    },
+    {
+        "name": "The Doorman",
+        "id": 69
+    },
+    {
+        "name": "Skyrunner",
+        "id": 70
+    },
+    {
+        "name": "Swan",
+        "id": 71
+    },
+    {
+        "name": "Billy",
+        "id": 72
+    },
+    {
+        "name": "Druid",
+        "id": 73
+    },
+    {
+        "name": "Graf",
+        "id": 74
+    },
+    {
+        "name": "Fortuna",
+        "id": 75
+    },
+    {
+        "name": "Graves",
+        "id": 76
+    },
+    {
+        "name": "Apollo",
+        "id": 77
+    },
+    {
+        "name": "Deadman Danny",
+        "id": 78
+    },
+    {
+        "name": "Rem",
+        "id": 79
+    },
+    {
+        "name": "Silver",
+        "id": 80
+    },
+    {
+        "name": "Celeste",
+        "id": 81
+    },
+    {
+        "name": "Opera",
+        "id": 82
+    },
+    {
+        "name": "hero_testhero",
+        "id": 83
+    },
+    {
+        "name": "Rat King",
+        "id": 84
+    },
+    {
+        "name": "Solomon",
+        "id": 85
+    },
+    {
+        "name": "Violet",
+        "id": 86
+    },
+    {
+        "name": "Nurse Harrow",
+        "id": 87
+    },
+    {
+        "name": "Baba",
+        "id": 88
+    }
+]
